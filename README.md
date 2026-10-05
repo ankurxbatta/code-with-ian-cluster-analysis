@@ -28,7 +28,7 @@ BiocManager::install("ComplexHeatmap")
 | # | Topic | Assignment | Solutions | Video |
 |---|-------|------------|-----------|-------|
 | CA-1 | What Is Cluster Analysis? | [assignment](ca-01-what-is-cluster-analysis/) | [solutions](ca-01-what-is-cluster-analysis/solutions/) | [full lesson](https://youtu.be/juWkuyncBwg) · [Short](https://youtube.com/shorts/q5W9A2-j_hM) (live Mar 2, 2027) |
-| CA-2 | Variable Types & Data Import | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-2 | Variable Types & Data Import | [assignment](ca-02-variable-types-data-import/) | [solutions](ca-02-variable-types-data-import/solutions/) | VIDEO_URL_PLACEHOLDER (live Mar 3, 2027) |
 | CA-3 | Binary Similarity Coefficients | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-4 | Euclidean & Manhattan Distance | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-5 | Correlation & Gower Distances | coming with the episode | coming with the episode | coming Mar 2027 |
