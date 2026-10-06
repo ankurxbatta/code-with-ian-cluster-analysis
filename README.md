@@ -32,7 +32,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-3 | Binary Similarity Coefficients | [assignment](ca-03-binary-similarity-coefficients/) | [solutions](ca-03-binary-similarity-coefficients/solutions/) | [full lesson](https://youtu.be/FNLq2MD0ZHU) · [Short](https://youtube.com/shorts/gQmYhHjxUCU) (live Mar 4, 2027) |
 | CA-4 | Euclidean & Manhattan Distance | [assignment](ca-04-euclidean-manhattan-distance/) | [solutions](ca-04-euclidean-manhattan-distance/solutions/) | [full lesson](https://youtu.be/Cd059odGZkk) · [Short](https://youtube.com/shorts/kZxb7m8_UU8) (live Mar 5, 2027) |
 | CA-5 | Correlation & Gower Distances | [assignment](ca-05-correlation-gower-distances/) | [solutions](ca-05-correlation-gower-distances/solutions/) | [full lesson](https://youtu.be/IjYE543fD-Q) · [Short](https://youtube.com/shorts/-iomjLaJXLM) (live Mar 6, 2027) |
-| CA-6 | K-means Clustering | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-6 | K-means Clustering | [assignment](ca-06-k-means-clustering/) | [solutions](ca-06-k-means-clustering/solutions/) | K-means Clustering, Step by Step (live Mar 6, 2027) |
 | CA-7 | The Clustering Workflow: Hopkins & VAT | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-8 | Choosing k: Elbow & Silhouette | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-9 | The Gap Statistic | coming with the episode | coming with the episode | coming Mar 2027 |
