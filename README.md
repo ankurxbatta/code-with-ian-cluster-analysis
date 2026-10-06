@@ -29,7 +29,7 @@ BiocManager::install("ComplexHeatmap")
 |---|-------|------------|-----------|-------|
 | CA-1 | What Is Cluster Analysis? | [assignment](ca-01-what-is-cluster-analysis/) | [solutions](ca-01-what-is-cluster-analysis/solutions/) | [full lesson](https://youtu.be/juWkuyncBwg) · [Short](https://youtube.com/shorts/q5W9A2-j_hM) (live Mar 2, 2027) |
 | CA-2 | Variable Types & Data Import | [assignment](ca-02-variable-types-data-import/) | [solutions](ca-02-variable-types-data-import/solutions/) | [full lesson](https://youtu.be/ahdDVF7H0bQ) · [Short](https://youtube.com/shorts/pztY1bWpbW0) (live Mar 3, 2027) |
-| CA-3 | Binary Similarity Coefficients | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-3 | Binary Similarity Coefficients | [assignment](ca-03-binary-similarity-coefficients/) | [solutions](ca-03-binary-similarity-coefficients/solutions/) | [full lesson](https://youtu.be/FNLq2MD0ZHU) · [Short](https://youtube.com/shorts/gQmYhHjxUCU) (live Mar 4, 2027) |
 | CA-4 | Euclidean & Manhattan Distance | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-5 | Correlation & Gower Distances | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-6 | K-means Clustering | coming with the episode | coming with the episode | coming Mar 2027 |
