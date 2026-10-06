@@ -33,7 +33,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-4 | Euclidean & Manhattan Distance | [assignment](ca-04-euclidean-manhattan-distance/) | [solutions](ca-04-euclidean-manhattan-distance/solutions/) | [full lesson](https://youtu.be/Cd059odGZkk) · [Short](https://youtube.com/shorts/kZxb7m8_UU8) (live Mar 5, 2027) |
 | CA-5 | Correlation & Gower Distances | [assignment](ca-05-correlation-gower-distances/) | [solutions](ca-05-correlation-gower-distances/solutions/) | [full lesson](https://youtu.be/IjYE543fD-Q) · [Short](https://youtube.com/shorts/-iomjLaJXLM) (live Mar 6, 2027) |
 | CA-6 | K-means Clustering | [assignment](ca-06-k-means-clustering/) | [solutions](ca-06-k-means-clustering/solutions/) | [full lesson](https://youtu.be/cqdZSCBobbQ) — [Short](https://youtube.com/shorts/OztkFV69Lo8) (live Sat Mar 6, 2027 2:00 PM PT) |
-| CA-7 | Is Your Data Clusterable? Hopkins Statistic & VAT | [assignment](ca-07-hopkins-vat/) | [solutions](ca-07-hopkins-vat/solutions/) | (live Sat Mar 6, 2027) |
+| CA-7 | Is Your Data Clusterable? Hopkins Statistic & VAT | [assignment](ca-07-hopkins-vat/) | [solutions](ca-07-hopkins-vat/solutions/) | [full lesson](https://youtu.be/rVIBCx2WzKM) (live Sat Mar 6, 2027) |
 | CA-8 | Choosing k: Elbow & Silhouette | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-9 | The Gap Statistic | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-10 | PAM: Clustering Around Medoids | coming with the episode | coming with the episode | coming Mar 2027 |
