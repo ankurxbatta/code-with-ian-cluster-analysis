@@ -27,7 +27,7 @@ BiocManager::install("ComplexHeatmap")
 
 | # | Topic | Assignment | Solutions | Video |
 |---|-------|------------|-----------|-------|
-| CA-1 | What Is Cluster Analysis? | [assignment](ca-01-what-is-cluster-analysis/) | [solutions](ca-01-what-is-cluster-analysis/solutions/) | [full lesson](https://youtu.be/juWkuyncBwg) · [Short](https://youtube.com/shorts/q5W9A2-j_hM) (live Mar 2, 2027) |
+| CA-1 | What Is Cluster Analysis? | [assignment](ca-01-what-is-cluster-analysis/) | [solutions](ca-01-what-is-cluster-analysis/solutions/) | [full lesson](https://youtu.be/kB555PLfsoY) · [Short](https://youtube.com/shorts/qtxLOkMYSu8) (live Mar 2, 2027) |
 | CA-2 | Variable Types & Data Import | [assignment](ca-02-variable-types-data-import/) | [solutions](ca-02-variable-types-data-import/solutions/) | [full lesson](https://youtu.be/ahdDVF7H0bQ) · [Short](https://youtube.com/shorts/pztY1bWpbW0) (live Mar 3, 2027) |
 | CA-3 | Binary Similarity Coefficients | [assignment](ca-03-binary-similarity-coefficients/) | [solutions](ca-03-binary-similarity-coefficients/solutions/) | [full lesson](https://youtu.be/FNLq2MD0ZHU) · [Short](https://youtube.com/shorts/gQmYhHjxUCU) (live Mar 4, 2027) |
 | CA-4 | Euclidean & Manhattan Distance | [assignment](ca-04-euclidean-manhattan-distance/) | [solutions](ca-04-euclidean-manhattan-distance/solutions/) | [full lesson](https://youtu.be/Cd059odGZkk) · [Short](https://youtube.com/shorts/kZxb7m8_UU8) (live Mar 5, 2027) |
