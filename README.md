@@ -34,7 +34,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-5 | Correlation & Gower Distances | [assignment](ca-05-correlation-gower-distances/) | [solutions](ca-05-correlation-gower-distances/solutions/) | [full lesson](https://youtu.be/IjYE543fD-Q) · [Short](https://youtube.com/shorts/-iomjLaJXLM) (live Mar 6, 2027) |
 | CA-6 | K-means Clustering | [assignment](ca-06-k-means-clustering/) | [solutions](ca-06-k-means-clustering/solutions/) | [full lesson](https://youtu.be/cqdZSCBobbQ) — [Short](https://youtube.com/shorts/OztkFV69Lo8) (live Sat Mar 6, 2027 2:00 PM PT) |
 | CA-7 | Is Your Data Clusterable? Hopkins Statistic & VAT | [assignment](ca-07-hopkins-vat/) | [solutions](ca-07-hopkins-vat/solutions/) | [full lesson](https://youtu.be/rVIBCx2WzKM) (live Sat Mar 6, 2027) |
-| CA-8 | Choosing k: Elbow & Silhouette | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-8 | Choosing k: Elbow & Silhouette | [assignment](ca-08-elbow-silhouette/) | [solutions](ca-08-elbow-silhouette/solutions/) | (live Sun Mar 7, 2027) |
 | CA-9 | The Gap Statistic | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-10 | PAM: Clustering Around Medoids | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-11 | CLARA: Clustering for Large Datasets | coming with the episode | coming with the episode | coming Mar 2027 |
