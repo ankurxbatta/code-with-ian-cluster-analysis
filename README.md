@@ -36,7 +36,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-7 | Is Your Data Clusterable? Hopkins Statistic & VAT | [assignment](ca-07-hopkins-vat/) | [solutions](ca-07-hopkins-vat/solutions/) | [full lesson](https://youtu.be/rVIBCx2WzKM) (live Sat Mar 6, 2027) |
 | CA-8 | Choosing k: Elbow & Silhouette | [assignment](ca-08-elbow-silhouette/) | [solutions](ca-08-elbow-silhouette/solutions/) | [full lesson](https://youtu.be/0J0Vf5l7G74) (live Sun Mar 7, 2027) |
 | CA-9 | The Gap Statistic | [assignment](ca-09-gap-statistic/) | [solutions](ca-09-gap-statistic/solutions/) | [full lesson](https://youtu.be/SylRj26gZQo) (live Sun Mar 7, 2027) |
-| CA-10 | PAM: Clustering Around Medoids | [assignment](ca-10-pam-medoids/) | [solutions](ca-10-pam-medoids/solutions/) | (live Sun Mar 7, 2027) |
+| CA-10 | PAM: Clustering Around Medoids | [assignment](ca-10-pam-medoids/) | [solutions](ca-10-pam-medoids/solutions/) | [full lesson](https://youtu.be/SZvyahyLG1c) (live Sun Mar 7, 2027) |
 | CA-11 | CLARA: Clustering for Large Datasets | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-12 | Hierarchical Clustering & Dendrograms | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-13 | Ward's Linkage & the Lance-Williams Formula | coming with the episode | coming with the episode | coming Mar 2027 |
