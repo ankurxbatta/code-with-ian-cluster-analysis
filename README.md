@@ -40,7 +40,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-11 | CLARA: Clustering for Large Datasets | [assignment](ca-11-clara-big-data/) | [solutions](ca-11-clara-big-data/solutions/) | [Full lesson](https://youtu.be/3hXm0vznXV8) · [Short](https://youtube.com/shorts/hUy6f4urrJM) (live Mon Mar 8, 2027) |
 | CA-12 | Hierarchical Clustering & Dendrograms | [assignment](ca-12-hierarchical-dendrograms/) | [solutions](ca-12-hierarchical-dendrograms/solutions/) | [Full lesson](https://youtu.be/c2SmlSPdmaM) · [Short](https://youtube.com/shorts/ElVXC87suuc) (live Tue Mar 9, 2027) |
 | CA-13 | Ward's Linkage & the Lance-Williams Formula | [assignment](ca-13-wards-linkage-lance-williams/) | [solutions](ca-13-wards-linkage-lance-williams/solutions/) | [Full lesson](https://youtu.be/02PybPFXGV8) · [Short](https://youtube.com/shorts/LrGo1M7OnKA) (live Wed Mar 10, 2027) |
-| CA-14 | Hierarchical K-means: The Hybrid | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-14 | Hierarchical K-means: The Hybrid | [assignment](ca-14-hierarchical-kmeans/) | [solutions](ca-14-hierarchical-kmeans/solutions/) | [Full lesson](https://youtu.be/SUbhqWAQMt4) · [Short](https://youtube.com/shorts/jbi6xfDJpoI) (live Thu Mar 11, 2027) |
 | CA-15 | Heatmaps: Seeing Clusters in Color | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-16 | Verifying Dendrograms: Cophenetic Correlation | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-17 | Baker's Gamma: Rank-Based Tree Check | coming with the episode | coming with the episode | coming Mar 2027 |
