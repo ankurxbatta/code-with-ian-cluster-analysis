@@ -45,7 +45,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-16 | Verifying Dendrograms: Cophenetic Correlation | [assignment](ca-16-cophenetic-correlation/) | [solutions](ca-16-cophenetic-correlation/solutions/) | [Full lesson](https://youtu.be/j8dAmJmLp1A) · [Short](https://youtube.com/shorts/axNk6yvm-Pc) (live Sat Mar 13, 2027) |
 | CA-17 | Baker's Gamma: Rank-Based Tree Check | [assignment](ca-17-bakers-gamma/) | [solutions](ca-17-bakers-gamma/solutions/) | [Full lesson](https://youtu.be/jcrHY-KaxhE) · [Short](https://youtube.com/shorts/Ip2gzRX41W0) — live Sat Mar 13, 2027 2:00 PM PT |
 | CA-18 | P-values for Hierarchical Clusters | [assignment](ca-18-pvclust-pvalues/) | [solutions](ca-18-pvclust-pvalues/solutions/) | [Full lesson](https://youtu.be/Cv-R5ZYHdZI) · [Short](https://youtube.com/shorts/iDnSeBhGoyg) — live Sat Mar 13, 2027 6:00 PM PT |
-| CA-19 | Rand Index: External Validation | [assignment](ca-19-rand-index/) | [solutions](ca-19-rand-index/solutions/) | TBD — Sun Mar 14, 2027 10:00 AM PT |
+| CA-19 | Rand Index: External Validation | [assignment](ca-19-rand-index/) | [solutions](ca-19-rand-index/solutions/) | [Full lesson](https://youtu.be/hs33Pwk-Ksk) · [Short](https://youtube.com/shorts/-W5D0T2ILLA) — Sun Mar 14, 2027 10:00 AM PT |
 | CA-20 | Dunn Index & Connectivity | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-21 | clValid: Which Algorithm Wins? | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-22 | Stability of Clustering | coming with the episode | coming with the episode | coming Mar 2027 |
