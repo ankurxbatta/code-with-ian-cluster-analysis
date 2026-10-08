@@ -44,7 +44,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-15 | Heatmaps: Seeing Clusters in Color | [assignment](ca-15-heatmaps-color/) | [solutions](ca-15-heatmaps-color/solutions/) | [Full lesson](https://youtu.be/FOrT3-mgSm8) · [Short](https://youtube.com/shorts/eQdnCla9tb8) (live Fri Mar 12, 2027) |
 | CA-16 | Verifying Dendrograms: Cophenetic Correlation | [assignment](ca-16-cophenetic-correlation/) | [solutions](ca-16-cophenetic-correlation/solutions/) | [Full lesson](https://youtu.be/j8dAmJmLp1A) · [Short](https://youtube.com/shorts/axNk6yvm-Pc) (live Sat Mar 13, 2027) |
 | CA-17 | Baker's Gamma: Rank-Based Tree Check | [assignment](ca-17-bakers-gamma/) | [solutions](ca-17-bakers-gamma/solutions/) | [Full lesson](https://youtu.be/jcrHY-KaxhE) · [Short](https://youtube.com/shorts/Ip2gzRX41W0) — live Sat Mar 13, 2027 2:00 PM PT |
-| CA-18 | P-values for Hierarchical Clusters | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-18 | P-values for Hierarchical Clusters | [assignment](ca-18-pvclust-pvalues/) | [solutions](ca-18-pvclust-pvalues/solutions/) | [Full lesson](TBD) · [Short](TBD) — live Sat Mar 13, 2027 6:00 PM PT |
 | CA-19 | Rand Index: External Validation | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-20 | Dunn Index & Connectivity | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-21 | clValid: Which Algorithm Wins? | coming with the episode | coming with the episode | coming Mar 2027 |
