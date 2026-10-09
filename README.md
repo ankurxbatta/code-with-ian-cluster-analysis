@@ -50,7 +50,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-21 | clValid: Which Algorithm Wins? | [assignment](ca-21-clvalid-algorithm-comparison/) | [solutions](ca-21-clvalid-algorithm-comparison/solutions/) | [Full lesson](https://youtu.be/CSyK8tQtpUA) · [Short](https://youtube.com/shorts/f1Ujvu4bWeg) — Sun Mar 14, 2027 6:00 PM PT |
 | CA-22 | Stability of Clustering | [assignment](ca-22-stability-clustering/) | [solutions](ca-22-stability-clustering/solutions/) | [Full lesson](https://youtu.be/EROOE-1Z6vE) · [Short](https://youtube.com/shorts/3nvplkvGb9o) — Mon Mar 15, 2027 6:00 PM PT |
 | CA-23 | DBSCAN: Density-Based Clustering | [assignment](ca-23-dbscan-clustering/) | [solutions](ca-23-dbscan-clustering/solutions/) | coming Mar 2027 |
-| CA-24 | Fuzzy Clustering: Belonging to Many | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-24 | Fuzzy Clustering: Belonging to Many | [assignment](ca-24-fuzzy-clustering/) | [solutions](ca-24-fuzzy-clustering/solutions/) | coming Mar 2027 |
 | CA-25 | Model-Based Clustering: Gaussian Mixtures | coming with the episode | coming with the episode | coming Mar 2027 |
 
 New assignments land here as each episode is released. The full "Cluster Analysis" playlist goes live on YouTube with the series.
