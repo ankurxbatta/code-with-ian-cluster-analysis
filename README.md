@@ -48,7 +48,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-19 | Rand Index: External Validation | [assignment](ca-19-rand-index/) | [solutions](ca-19-rand-index/solutions/) | [Full lesson](https://youtu.be/hs33Pwk-Ksk) · [Short](https://youtube.com/shorts/-W5D0T2ILLA) — Sun Mar 14, 2027 10:00 AM PT |
 | CA-20 | Dunn Index & Connectivity | [assignment](ca-20-dunn-connectivity/) | [solutions](ca-20-dunn-connectivity/solutions/) | [Full lesson](https://youtu.be/bzQVdRFERPM) · [Short](https://youtube.com/shorts/aKQ_USmdLb4) — Sun Mar 14, 2027 2:00 PM PT |
 | CA-21 | clValid: Which Algorithm Wins? | [assignment](ca-21-clvalid-algorithm-comparison/) | [solutions](ca-21-clvalid-algorithm-comparison/solutions/) | [Full lesson](https://youtu.be/CSyK8tQtpUA) · [Short](https://youtube.com/shorts/f1Ujvu4bWeg) — Sun Mar 14, 2027 6:00 PM PT |
-| CA-22 | Stability of Clustering | coming with the episode | coming with the episode | coming Mar 2027 |
+| CA-22 | Stability of Clustering | [assignment](ca-22-stability-clustering/) | [solutions](ca-22-stability-clustering/solutions/) | coming Mar 2027 |
 | CA-23 | DBSCAN: Density-Based Clustering | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-24 | Fuzzy Clustering: Belonging to Many | coming with the episode | coming with the episode | coming Mar 2027 |
 | CA-25 | Model-Based Clustering: Gaussian Mixtures | coming with the episode | coming with the episode | coming Mar 2027 |
