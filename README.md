@@ -51,7 +51,7 @@ BiocManager::install("ComplexHeatmap")
 | CA-22 | Stability of Clustering | [assignment](ca-22-stability-clustering/) | [solutions](ca-22-stability-clustering/solutions/) | [Full lesson](https://youtu.be/EROOE-1Z6vE) · [Short](https://youtube.com/shorts/3nvplkvGb9o) — Mon Mar 15, 2027 6:00 PM PT |
 | CA-23 | DBSCAN: Density-Based Clustering | [assignment](ca-23-dbscan-clustering/) | [solutions](ca-23-dbscan-clustering/solutions/) | coming Mar 2027 |
 | CA-24 | Fuzzy Clustering: Belonging to Many | [assignment](ca-24-fuzzy-clustering/) | [solutions](ca-24-fuzzy-clustering/solutions/) | coming Mar 2027 |
-| CA-25 | Model-Based Clustering: Gaussian Mixtures | [assignment](ca-25-gaussian-mixtures/) | [solutions](ca-25-gaussian-mixtures/solutions/) | TBD (video link pending upload) |
+| CA-25 | Model-Based Clustering: Gaussian Mixtures | [assignment](ca-25-gaussian-mixtures/) | [solutions](ca-25-gaussian-mixtures/solutions/) | [video](https://youtu.be/Z3t7dowZkIc) |
 
 New assignments land here as each episode is released. The full "Cluster Analysis" playlist goes live on YouTube with the series.
 
